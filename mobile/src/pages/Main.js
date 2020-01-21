@@ -41,6 +41,8 @@ function Main({ navigation }) {
     subscribeToNewDevs(dev => setDevs([...devs, dev]))
   }, [devs])
 
+  console.log(devs)
+
   // A partir da primeira busca vai começar a ouvir em tempo real
   function setupWebsocket() {
     disconnect();
