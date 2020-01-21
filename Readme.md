@@ -15,4 +15,5 @@ Já na Web, a API é consumida e acompanhamos em tempo real cada novo cadastro r
 
 ## Mobile: React Native/Expo
 No APP, através da geolocalização, conseguimos fazer uma busca por Devs, de acordo com a teclonogia, em uma distância de até 10km.
-![Mobile](./images/mobile1.jpeg)![Mobile1](./images/mobile.jpeg)
+
+![Mobile](./images/mobiles.jpeg)
