@@ -2,9 +2,9 @@
 Aplicação desenvolvida na SemanaOmnistack10 da Rocketseat!
   
 
-## 🚀 Tecnologias utilizadas: 
+## 🚀  Tecnologias utilizadas: 
 
-## 🔧 Backend
+## 🔧  Backend
 
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
