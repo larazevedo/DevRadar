@@ -2,9 +2,9 @@
 Aplicação desenvolvida na SemanaOmnistack10 da Rocketseat!
   
 
-## 🚀  Tecnologias utilizadas: 
+## Tecnologias utilizadas: 
 
-## 🔧  Backend
+## Backend
 
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
@@ -14,14 +14,14 @@ Aplicação desenvolvida na SemanaOmnistack10 da Rocketseat!
 No backend, ao fazermos o cadastro de um Dev, utilizamos a API do Github para trazer mais informações do perfil cadastrado.
 ![Backend](./images/back.png)
 
-## 👩🏻‍💻 Web
+## Web
 
 - [React](https://pt-br.reactjs.org/)
 
 Já na Web, a API é consumida e acompanhamos em tempo real cada novo cadastro realizado. 
 ![1](./images/web.png)
 
-## 📱 Mobile
+## Mobile
 
 - [ReactNative](https://reactnative.dev/)
 - [Expo](https://expo.io/)
