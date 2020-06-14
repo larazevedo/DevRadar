@@ -16,11 +16,6 @@ export default function App() {
   );
 }
 
-
-
-
-
-
 /* Anotações (Diferenças entre React e Native)
    font-weight = fontWeight
 
